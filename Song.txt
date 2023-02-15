@@ -11,7 +11,10 @@ We're marching into destiny
 -----------------------------------
 =======
 on this their chosen battle field
+<<<<<<< HEAD
 
 form the lines
 shield by shield
 >>>>>>> 6e146a0ac7ee03d465b58f46a2d0179fdc96d234
+=======
+>>>>>>> parent of 6e146a0 (Add two more lines to song_2)
