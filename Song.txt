@@ -12,4 +12,8 @@ on this their chosen battle field
 
 form the lines
 shield by shield
+<<<<<<< HEAD
 New lines ddd
+=======
+New lines!!!
+>>>>>>> 37d6923da38a73563b98533a457aeb04b6460139
